@@ -1,0 +1,16 @@
+#tombola div {
+  display: inline-block;
+  width: 92px;
+  border: 1px solid black;
+}
+.tbl-center {
+  text-align: center;
+}
+.celle {
+  width: 10px;
+  height: 10px;
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  align-items: center;
+}
